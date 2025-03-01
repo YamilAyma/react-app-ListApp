@@ -4,7 +4,7 @@
 
 Crea listas y presentaciones de las aplicaciones como herramientas que usas en tu desarrollo, añade descripciones y vinculos para encontrarlas fácilmente.
 
-![Vista previa](public\images\landing.png)
+![Vista previa](public/images/landing.png)
 
 ## 🧑‍💻 Proyecto bajo desarrollo
 
